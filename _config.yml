@@ -5,7 +5,7 @@ description: "Trilok Tourani's personal website. This is where Trilok's thoughts
 logo: 120x120.gif
 teaser: 400x250.gif
 locale: en_US
-url: http://triloktourani.com
+url: //d4r3topk.github.io
 
 # Jekyll configuration
 
@@ -22,17 +22,17 @@ gems:
 
 # Site owner
 owner:
-  name: Michael Rose
-  web: http://mademistakes.com
-  email: michael@mademistakes.com
-  twitter: mmistakes
-  bio: "Just another boring, tattooed, time traveling designer."
+  name: Trilok Tourani
+  web: http://triloktourani.com
+  email: triloktourani17@gmail.com
+  twitter: -
+  bio: ""
   avatar: bio-photo.jpg # 160x160 px image for author byline
   google:
-    plus: +MichaelRoseDesign
+    plus: +
     ad-client: ca-pub-7328585512091257
     ad-slot: 3049671934
-  disqus-shortname:
+  disqus-shortname:trilok
 
 
 exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
