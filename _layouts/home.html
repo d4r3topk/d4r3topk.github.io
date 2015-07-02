@@ -33,15 +33,15 @@
     {% include header.html %}
     {% include navigation-sliding.html %}
 
-
-    <div class="page-lead" style="background-image:url({{ site.url }}/images/main.jpg)">
+    {% if page.image.feature %}
+    <div class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image.feature }})">
       <div class="wrap page-lead-content">
         <h1>Trilok Tourani</h1>
         <h2>Code. Fun. Sindhi.</h2>
         <a href="{{ site.url }}/blog/" class="btn-inverse">My blog</a> &nbsp;&nbsp;  &nbsp; <a href="{{ site.url }}/about/" class="btn-inverse">About me</a>
       </div><!-- /.page-lead-content -->
     </div><!-- /.page-lead -->
-
+    {% endif %}
 
     <div id="page-wrapper">
       {% include browser-upgrade.html %}
