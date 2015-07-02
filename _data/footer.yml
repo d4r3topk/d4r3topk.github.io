@@ -1,4 +1,16 @@
 # Footer navigation links
 
-- title:
-  url:
+- title: Home
+  url: /
+  excerpt:
+  image:
+
+- title: About me
+  url: /about/
+
+- title: Blog
+  url: /blog/
+
+- title: Contact
+  url: /contact/
+
