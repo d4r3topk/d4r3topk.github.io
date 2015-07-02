@@ -2,6 +2,8 @@
 layout: home 
 permalink: /
 title: Latest posts
+image:
+  feature: "main.jpg"
 ---
 
 <div class="tiles">
