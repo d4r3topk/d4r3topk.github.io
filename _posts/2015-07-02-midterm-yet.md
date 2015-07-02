@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "Midterm already?"
-date: 2015-02-07
+date: 2015-07-02
 categories: gsoc
 excerpt: "My Google Summer of Code post for midterm."
 tags: [gsoc, fossasia, midterm, steam]
