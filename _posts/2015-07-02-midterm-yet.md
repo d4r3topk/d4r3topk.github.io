@@ -5,7 +5,7 @@ date: 2015-07-02
 categories: gsoc
 excerpt: "My Google Summer of Code post for midterm."
 tags: [gsoc, fossasia, midterm, steam]
-ads: true
+ads: false
 image:
   feature: gsoc2015.png
   teaser: joint_gsoc_fossasia.jpg
@@ -34,7 +34,7 @@ What is sTeam?
 
 sTeam is a collaboration platform which helps people to share their documents, chat with them, have a look at their virtual workarea, and ease the sharing/developing in big groups. You can also look at the current development on the sTeam web interface [here](http://steam-web.azurewebsites.net/). It is still in the development phase, so please feel free to provide us with any ideas to improve. To know more about sTeam, please visit [societyserver](http://societyserver.org/).
 
-sTeam is completely built on pike programming language. To know more about pike programming, please visit http://pike.lysator.liu.se/. If you already know about pike, and are good at it, please visit Fossasia’s IRC channel #fossasia and ask for tasks/bugs on this project to solve right away. If you are looking for something other than sTeam, FOSSASIA has a wide range of projects in various fields, and also welcomes any new project ideas.
+sTeam is completely built on pike programming language. To know more about pike programming, please visit [Pike](http://pike.lysator.liu.se/). If you already know about pike, and are good at it, please visit Fossasia’s IRC channel #fossasia and ask for tasks/bugs on this project to solve right away. If you are looking for something other than sTeam, FOSSASIA has a wide range of projects in various fields, and also welcomes any new project ideas.
 
 * * *
 
