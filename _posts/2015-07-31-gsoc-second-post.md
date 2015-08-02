@@ -7,7 +7,7 @@ excerpt: "My Google Summer of Code post."
 tags: [gsoc, fossasia, user-interface, sTeam]
 ads: false
 image:
-  feature: fossasia.png
+  feature: fossasia2.jpg
   teaser: joint_gsoc_fossasia.jpg
 ---
 {% include toc.html %}
