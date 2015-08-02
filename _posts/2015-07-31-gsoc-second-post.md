@@ -1,13 +1,13 @@
 ---
 layout: article
-title: "Post2"
+title: "More about sTeam's command line interface"
 date: 2015-07-02
 categories: gsoc
 excerpt: "My Google Summer of Code post."
 tags: [gsoc, fossasia, user-interface, sTeam]
 ads: false
 image:
-  feature: gsoc2015.png
+  feature: fossasia.png
   teaser: joint_gsoc_fossasia.jpg
 ---
 {% include toc.html %}
